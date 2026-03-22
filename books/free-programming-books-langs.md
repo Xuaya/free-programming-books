@@ -284,7 +284,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learning APL](https://xpqz.github.io/learnapl) - Stefan Kruger (HTML,PDF,IPYNB)
 * [Mastering Dyalog APL](https://www.dyalog.com/mastering-dyalog-apl.htm) (PDF, HTML, IPYNB) *( :construction: in process)*
 * [Reinforcement Learning From The Ground Up](https://romilly.github.io/o-x-o) - Romilly Cocking (PDF, HTML, IPYNB) *( :construction: in process)*
-* [College Mathematics with APL](https://web.archive.org/web/20230101000000/https://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E.J. LeCuyer
 
 
 ### App Inventor
